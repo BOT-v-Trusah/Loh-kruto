@@ -1,0 +1,2 @@
+# Loh-kruto
+project
